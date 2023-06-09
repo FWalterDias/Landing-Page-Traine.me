@@ -4,7 +4,7 @@
 Landing page desenvolvida com base no figma, a partir de um desafio da formação Explorer pela <a href='https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&gclid=CjwKCAjw-IWkBhBTEiwA2exyO2UU9IxMHuBX8nM-cwqEDLeeUYn7ZCoV3E6wHGFEYExif5P_Hm8wuhoCmgsQAvD_BwE' target="_blank">RocektSeat</a>
 
 
-### Disponível em: https://fwalterdias.github.io/Landing-Page-Traine.me/
+### Disponível em: <a href='https://fwalterdias.github.io/Landing-Page-Traine.me/' target="_blank">Traine.me</a>
 
 
 ### Página finalizada
